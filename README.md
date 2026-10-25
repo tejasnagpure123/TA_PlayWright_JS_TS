@@ -17,7 +17,7 @@ This repository is a chapter-based collection of JavaScript learning examples. T
 | [`09_Chapter_loops`](./09_Chapter_loops/) | Loop fundamentals and `for`-loop examples, including additional practice files. |
 | [`10_Chapter_While`](./10_Chapter_While/) | Examples for `while` loops and related exercises. |
 | [`11_Chapter_Do_While`](./11_Chapter_Do_While/) | `do...while` loops, nested examples, and practice questions. |
-| [`12_Chapter_Array`](./12_Chapter_Array/) | The array chapter directory. It is currently empty; no examples have been added yet. |
+| [`12_Chapter_Array`](./12_Chapter_Array/) | JavaScript array fundamentals and methods, with standalone examples for creating, accessing, modifying, adding, removing, searching, iterating, and transforming arrays. See the detailed [Array Methods Guide](./12_Chapter_Array/Array_Methods_Guide.md). |
 
 ## Running an example
 
