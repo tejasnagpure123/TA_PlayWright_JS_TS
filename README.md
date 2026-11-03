@@ -1,11 +1,12 @@
 # TA Playwright JS/TS
 
-This repository is a chapter-based collection of JavaScript learning examples. The numbered folders progress from basic syntax through arrays, with most lessons implemented as small, standalone `.js` files. Some filenames are abbreviated or retain their original spelling.
+This repository is a chapter-based collection of JavaScript learning examples. The numbered folders progress from basic syntax through strings, with most lessons implemented as small, standalone `.js` files. Supplemental notes and visual explanations are collected separately. Some filenames are abbreviated or retain their original spelling.
 
 ## Project folders
 
 | Folder | Topics and contents |
 | --- | --- |
+| [`00_Learning`](./00_Learning/) | Supplemental reference notes, including string indexing with `charAt()` and `at()`, less commonly used string methods, and an HTML explanation of object references and copies. |
 | [`01_Chapter_basic`](./01_Chapter_basic/) | Getting started with JavaScript. Contains `HelloWorld.js`, the introductory example. |
 | [`02_Chapter_JS_Keyword_Identifiers`](./02_Chapter_JS_Keyword_Identifiers/) | JavaScript engine basics, `let`, keywords and identifiers, identifier rules, comments, and a question/practice example. |
 | [`03_Chapter_JS_Literals`](./03_Chapter_JS_Literals/) | Literal values, numbers, special values, `null`, and `undefined`, with examples covering the distinctions between these values. |
@@ -17,7 +18,11 @@ This repository is a chapter-based collection of JavaScript learning examples. T
 | [`09_Chapter_loops`](./09_Chapter_loops/) | Loop fundamentals and `for`-loop examples, including additional practice files. |
 | [`10_Chapter_While`](./10_Chapter_While/) | Examples for `while` loops and related exercises. |
 | [`11_Chapter_Do_While`](./11_Chapter_Do_While/) | `do...while` loops, nested examples, and practice questions. |
-| [`12_Chapter_Array`](./12_Chapter_Array/) | JavaScript array fundamentals and methods, with standalone examples for creating, accessing, modifying, adding, removing, searching, iterating, and transforming arrays. See the detailed [Array Methods Guide](./12_Chapter_Array/Array_Methods_Guide.md). |
+| [`12_Chapter_Array`](./12_Chapter_Array/) | JavaScript array fundamentals and methods, with standalone examples for creating, accessing, modifying, adding, removing, searching, iterating, and transforming arrays. Recent lessons cover sorting (including lexicographic sorting), slicing, array checks, copying, destructuring, and swapping. See the detailed [Array Methods Guide](./12_Chapter_Array/Array_Methods_Guide.md), the [lexicographic sorting explanation](./12_Chapter_Array/91_lexicographic_Explain.md), and the [slicing explanation](./12_Chapter_Array/94_ArraysSlicing_Explained.md). |
+| [`13_Chapter_Funtions`](./13_Chapter_Funtions/) | Function declarations and expressions, parameters and return values, arrow functions, template literals, IIFEs, and spread/rest examples. |
+| [`14_Chapter_Var_Let_Const_Hoisting_TDZ`](./14_Chapter_Var_Let_Const_Hoisting_TDZ/) | `var`, `let`, and `const`, scope and hoisting behavior, the temporal dead zone (TDZ), function hoisting, and `typeof`. |
+| [`15_Chapter_Closure`](./15_Chapter_Closure/) | An introductory example of JavaScript closures. |
+| [`16_Chapter_String`](./16_Chapter_String/) | String fundamentals and common string methods, with examples for searching within strings. |
 
 ## Running an example
 
