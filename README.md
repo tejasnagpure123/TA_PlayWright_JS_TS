@@ -6,7 +6,7 @@ This repository is a chapter-based collection of JavaScript learning examples. T
 
 | Folder | Topics and contents |
 | --- | --- |
-| [`00_Learning`](./00_Learning/) | Supplemental reference notes, including string indexing with `charAt()` and `at()`, less commonly used string methods, and an HTML explanation of object references and copies. |
+| [`00_Learning`](./00_Learning/) | Supplemental reference notes, including [Promises vs. callbacks](./00_Learning/promise_vs_callbacks_eli5.md), string indexing with `charAt()` and `at()`, less commonly used string methods, and an HTML explanation of object references and copies. |
 | [`01_Chapter_basic`](./01_Chapter_basic/) | Getting started with JavaScript. Contains `HelloWorld.js`, the introductory example. |
 | [`02_Chapter_JS_Keyword_Identifiers`](./02_Chapter_JS_Keyword_Identifiers/) | JavaScript engine basics, `let`, keywords and identifiers, identifier rules, comments, and a question/practice example. |
 | [`03_Chapter_JS_Literals`](./03_Chapter_JS_Literals/) | Literal values, numbers, special values, `null`, and `undefined`, with examples covering the distinctions between these values. |
