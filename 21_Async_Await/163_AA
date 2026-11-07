@@ -1,0 +1,23 @@
+//Normal way to use the promiese
+
+function getResults() {
+    return "Pass";
+}
+
+getResults().then(function (results) {
+    console.log(results)
+});
+
+//New way using AA
+async function testAPI() {
+    try {
+        let results = await Promise.reject("503 Service unavailable");
+        console.log(`Results`, results);
+    } catch (error) {
+        console.log("Error", error)
+    } finally {
+        console.log("Clean up !!")
+    }
+}
+
+testAPI();
